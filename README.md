@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shihlien
 - 👀 I’m interested in computer hw security
 - 🌱 I’m currently learning about Intel's NPU
-- 💞️ I’m looking to collaborate on hwo to program Intel NPU at the low level
+- 💞️ I’m looking to collaborate on how to program Intel NPU at the low level
 - 📫 How to reach me - slllu@yahoo.com
 
 <!---
